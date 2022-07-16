@@ -10,7 +10,7 @@
 - 👀 I am interested in getting a new job that allows me to grow in the development area. I want to gain experience in HTML, CSS Js and PHP. 
 
 
-- 🌱 I’m currently learning HTML, CSS, Java Script, WordPress, PHP and GitHub.
+- 🌱 I'm currently improve my knowledge about HTML, CSS, Java Script, WordPress, PHP and GitHub.
 - 💞️ I am looking to collaborate in any job that allows me to gain experience in any of the technologies mentioned above.
 - 📫 You can contact to me: leandroa.alegre@gmail.com or https://www.linkedin.com/in/leandro-alegre-55863ab9/
 
